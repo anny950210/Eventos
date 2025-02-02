@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Music\\WebApiRest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|c:\\users\\dell\\music\\webapirest\\negocio\\businesscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|solutionrelative:negocio\\businesscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|c:\\users\\dell\\music\\webapirest\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|solutionrelative:constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|c:\\users\\dell\\music\\webapirest\\basedatos\\dao\\eventosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|solutionrelative:basedatos\\dao\\eventosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|c:\\users\\dell\\music\\webapirest\\models\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|solutionrelative:models\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|c:\\users\\dell\\music\\webapirest\\negocio\\ibusinesscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|solutionrelative:negocio\\ibusinesscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|c:\\users\\dell\\music\\webapirest\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|solutionrelative:controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|c:\\users\\dell\\music\\webapirest\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|solutionrelative:models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|c:\\users\\dell\\music\\webapirest\\accesodatos\\datoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|solutionrelative:accesodatos\\datoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|c:\\users\\dell\\music\\webapirest\\accesodatos\\idatoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|solutionrelative:accesodatos\\idatoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|c:\\users\\dell\\music\\webapirest\\basedatos\\core\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|solutionrelative:basedatos\\core\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|c:\\users\\dell\\music\\webapirest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|c:\\users\\dell\\music\\webapirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE0A81F5-D480-4466-8F3C-7B9F89AFD340}|WebApiRest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constantes.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Music\\WebApiRest\\Constantes.cs",
+              "RelativeDocumentMoniker": "Constantes.cs",
+              "ToolTip": "C:\\Users\\DELL\\Music\\WebApiRest\\Constantes.cs",
+              "RelativeToolTip": "Constantes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:56:28.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatosContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Music\\WebApiRest\\AccesoDatos\\DatosContext.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\DatosContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Music\\WebApiRest\\AccesoDatos\\DatosContext.cs",
+              "RelativeToolTip": "AccesoDatos\\DatosContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:27:37.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBusinessContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Music\\WebApiRest\\Negocio\\IBusinessContext.cs",
+              "RelativeDocumentMoniker": "Negocio\\IBusinessContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Music\\WebApiRest\\Negocio\\IBusinessContext.cs",
+              "RelativeToolTip": "Negocio\\IBusinessContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:06:07.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Music\\WebApiRest\\Negocio\\BusinessContext.cs",
+              "RelativeDocumentMoniker": "Negocio\\BusinessContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Music\\WebApiRest\\Negocio\\BusinessContext.cs",
+              "RelativeToolTip": "Negocio\\BusinessContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:05:32.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Music\\WebApiRest\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\DELL\\Music\\WebApiRest\\Models\\Evento.cs",
+              "RelativeToolTip": "Models\\Evento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:52:35.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Music\\WebApiRest\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Music\\WebApiRest\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "Controllers\\EventoController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:03:21.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Boleto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Music\\WebApiRest\\Models\\Boleto.cs",
+              "RelativeDocumentMoniker": "Models\\Boleto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Music\\WebApiRest\\Models\\Boleto.cs",
+              "RelativeToolTip": "Models\\Boleto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T17:53:53.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Music\\WebApiRest\\BaseDatos\\DAO\\EventosDAO.cs",
+              "RelativeDocumentMoniker": "BaseDatos\\DAO\\EventosDAO.cs",
+              "ToolTip": "C:\\Users\\DELL\\Music\\WebApiRest\\BaseDatos\\DAO\\EventosDAO.cs",
+              "RelativeToolTip": "BaseDatos\\DAO\\EventosDAO.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:59:47.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDatosContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Music\\WebApiRest\\AccesoDatos\\IDatosContext.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\IDatosContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Music\\WebApiRest\\AccesoDatos\\IDatosContext.cs",
+              "RelativeToolTip": "AccesoDatos\\IDatosContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:28:07.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Music\\WebApiRest\\BaseDatos\\Core\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "BaseDatos\\Core\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\DELL\\Music\\WebApiRest\\BaseDatos\\Core\\ConnectionStrings.cs",
+              "RelativeToolTip": "BaseDatos\\Core\\ConnectionStrings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T18:41:17.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Music\\WebApiRest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Music\\WebApiRest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T22:08:36.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Music\\WebApiRest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Music\\WebApiRest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T02:34:24.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
