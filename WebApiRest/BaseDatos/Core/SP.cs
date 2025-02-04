@@ -5,19 +5,15 @@
         public struct Eventos
         {
             public const string SpeEventoInsertar = "SpeEventoInsertar";
-            public const string Usp_Productos_Ins = "Usp_Productos_Ins";
-            public const string Usp_Productos_Upd = "Usp_Productos_Upd";
-            public const string Usp_Productos_Del = "Usp_Productos_Del";
+            public const string SpeEventoObtener = "SpeEventoObtener";
+            public const string SpeEventoActualizar = "SpeEventoActualizar";
+            public const string SpeEventoEliminar = "SpeEventoEliminar";
         }
 
-        public struct Proveedores
+        public struct Boletos
         {
-            public const string Usp_Proveedores_Obt = "Usp_Proveedores_Obt";
-        }
-
-        public struct TipoProducto
-        {
-            public const string Usp_TipoProducto_Obt = "Usp_TipoProducto_Obt";
+            public const string SpeBoletoObtener = "SpeBoletoObtener";
+            public const string SpeBoletoActualizar = "SpeBoletoActualizar";
         }
     }
 }
